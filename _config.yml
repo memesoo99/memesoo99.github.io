@@ -3,7 +3,7 @@ title:               미미로그
 tagline:             ''
 description:         'IT blog
 Made by <a href="https://github.com/memesoo99" target="_blank">@memesoo</a>.'
-url:                 https://memesoo99.github.io/
+url:                 https://memesoo99.github.io
 baseurl:             
 paginate:            5
 permalink:           pretty
