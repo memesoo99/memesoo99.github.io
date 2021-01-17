@@ -3,8 +3,8 @@ title:               미미로그
 tagline:             ''
 description:         'IT blog
 Made by <a href="https://github.com/memesoo99" target="_blank">@memesoo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+url:                 https://memesoo99.github.io/
+baseurl:             'https://memesoo99.github.io/'
 paginate:            5
 permalink:           pretty
 
