@@ -1,0 +1,26 @@
+# Setup
+title:               미미로그
+tagline:             ''
+description:         'IT blog
+Made by <a href="https://github.com/memesoo99" target="_blank">@memesoo</a>.'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Jisoo Kim
+  url:               https://github.com/memesoo99
+  email:             genniferk1234@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
+
+paginate: 10                  # 페이징 처리 개수
+paginate_path: "/page:num/"   # URL 규칙
